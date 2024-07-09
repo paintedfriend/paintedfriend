@@ -6,7 +6,7 @@
 - 💬 Ask me about **Vue, Laravel, Adaptive Design**
 - 📫 How to reach me **t.me/altboy**
 - 👨‍💻 All of my projects are available at **this profile**
-- ⚡ Fun fact **I am musician**
+- ⚡ **I am musician**
 
 <div> 
 <a href="https://github.com/paintedfriend" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
