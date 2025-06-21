@@ -2,8 +2,7 @@
 <h3 align="center">Yaroslav Kudryavtsev</h3>
 
 - 🔭 I’m currently working on **Ableton Tools**
-- 🌱 I’m currently learning **React, React native, NativeScript**
-- 💬 Ask me about **Vue, Laravel, Adaptive Design**
+- 💬 Ask me about **Vue, Nuxt, NodeJS, REST**
 - 📫 How to reach me **t.me/altboy**
 - 👨‍💻 All of my projects are available at **this profile**
 - ⚡ **I am musician**
