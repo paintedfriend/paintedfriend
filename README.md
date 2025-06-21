@@ -2,7 +2,7 @@
 <h3 align="center">Yaroslav Kudryavtsev</h3>
 
 - 🔭 I’m currently working on **Ableton Tools**
-- 💬 Ask me about **Vue, Nuxt, NodeJS, REST**
+- 💬 Ask me about **Vue, Nuxt, NodeJS, REST, TailwindCSS**
 - 📫 How to reach me **t.me/altboy**
 - 👨‍💻 All of my projects are available at **this profile**
 - ⚡ **I am musician**
